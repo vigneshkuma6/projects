@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-03T16:18:48 IST" name="Default suite" finished-at="2024-04-03T16:19:08 IST" duration-ms="19875">
+    <groups>
+      <group name="smoke">
+        <method signature="TestRunner.verifyAddProduct()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" name="verifyAddProduct" class="TestCases.TestRunner"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TestRunner.verifyCartPage()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" name="verifyCartPage" class="TestCases.TestRunner"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-04-03T16:18:48 IST" name="Default test" finished-at="2024-04-03T16:19:08 IST" duration-ms="19875">
+      <class name="TestCases.TestRunner">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:42 IST" name="launchBrowser" finished-at="2024-04-03T16:18:48 IST" duration-ms="5781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:48 IST" name="loginToSite" finished-at="2024-04-03T16:18:49 IST" duration-ms="1790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="verifyAddProduct()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:49 IST" name="verifyAddProduct" finished-at="2024-04-03T16:18:50 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProduct -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:50 IST" name="logOut" finished-at="2024-04-03T16:18:50 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:50 IST" name="loginToSite" finished-at="2024-04-03T16:18:51 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="verifyAddProduct()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:51 IST" name="verifyAddProduct" finished-at="2024-04-03T16:18:51 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProduct -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:52 IST" name="logOut" finished-at="2024-04-03T16:18:52 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:52 IST" name="loginToSite" finished-at="2024-04-03T16:18:52 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="verifyAddProduct()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:52 IST" name="verifyAddProduct" finished-at="2024-04-03T16:18:53 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProduct -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:53 IST" name="logOut" finished-at="2024-04-03T16:18:53 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:53 IST" name="loginToSite" finished-at="2024-04-03T16:18:54 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="verifyAddProduct()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:54 IST" name="verifyAddProduct" finished-at="2024-04-03T16:18:54 IST" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProduct -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:54 IST" name="logOut" finished-at="2024-04-03T16:18:55 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:55 IST" name="loginToSite" finished-at="2024-04-03T16:18:55 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="verifyAddProduct()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:55 IST" name="verifyAddProduct" finished-at="2024-04-03T16:18:56 IST" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProduct -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:56 IST" name="logOut" finished-at="2024-04-03T16:18:57 IST" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:57 IST" name="loginToSite" finished-at="2024-04-03T16:18:57 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="verifyCartPage()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:18:57 IST" name="verifyCartPage" finished-at="2024-04-03T16:19:00 IST" duration-ms="3370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartPage -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:00 IST" name="logOut" finished-at="2024-04-03T16:19:00 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:00 IST" name="loginToSite" finished-at="2024-04-03T16:19:01 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="addingMultipleProduct()[pri:3, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:01 IST" name="addingMultipleProduct" finished-at="2024-04-03T16:19:01 IST" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingMultipleProduct -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:01 IST" name="logOut" finished-at="2024-04-03T16:19:02 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:02 IST" name="loginToSite" finished-at="2024-04-03T16:19:02 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="placeOrder()[pri:4, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:02 IST" name="placeOrder" finished-at="2024-04-03T16:19:05 IST" duration-ms="2799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:05 IST" name="logOut" finished-at="2024-04-03T16:19:05 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="loginToSite()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:05 IST" name="loginToSite" finished-at="2024-04-03T16:19:06 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="resetAppstate()[pri:5, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:06 IST" name="resetAppstate" finished-at="2024-04-03T16:19:07 IST" duration-ms="1443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetAppstate -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:07 IST" name="logOut" finished-at="2024-04-03T16:19:08 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestRunner@1ed4ae0f]" started-at="2024-04-03T16:19:08 IST" name="tearDown" finished-at="2024-04-03T16:19:08 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

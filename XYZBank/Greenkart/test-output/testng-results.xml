@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T12:21:06 IST" name="Default suite" finished-at="2024-04-08T12:21:08 IST" duration-ms="2124">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T12:21:06 IST" name="Default test" finished-at="2024-04-08T12:21:08 IST" duration-ms="2124">
+      <class name="testcases.GreenkartRunner">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.GreenkartRunner@11392934]" started-at="2024-04-08T12:21:02 IST" name="launchBrowser" finished-at="2024-04-08T12:21:06 IST" duration-ms="3476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginToSite()[pri:0, instance:testcases.GreenkartRunner@11392934]" started-at="2024-04-08T12:21:06 IST" name="loginToSite" finished-at="2024-04-08T12:21:07 IST" duration-ms="1840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSite -->
+        <test-method signature="logoutFromSite()[pri:0, instance:testcases.GreenkartRunner@11392934]" started-at="2024-04-08T12:21:07 IST" name="logoutFromSite" finished-at="2024-04-08T12:21:08 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromSite -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.GreenkartRunner@11392934]" started-at="2024-04-08T12:21:08 IST" name="closeBrowser" finished-at="2024-04-08T12:21:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.GreenkartRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

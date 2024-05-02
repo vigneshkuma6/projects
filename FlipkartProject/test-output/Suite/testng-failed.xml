@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <parameter name="property" value="C:\Users\VIGNKUMA\eclipse-workspace\FlipkartProject\Fkdata.properties"/>
+  <listeners>
+    <listener class-name="extentReporterListener.ExtentReporterNG"/>
+  </listeners>
+  <test parallel="none" name="Test(failed)" preserve-order="true">
+    <parameter name="property" value="C:\Users\VIGNKUMA\eclipse-workspace\FlipkartProject\Fkdata.properties"/>
+    <classes>
+      <class name="Testcases.Flipkarttest">
+        <methods>
+          <include name="Test5"/>
+          <include name="initialize"/>
+          <include name="readproperty"/>
+          <include name="TeardownTest"/>
+          <include name="Test3"/>
+        </methods>
+      </class> <!-- Testcases.Flipkarttest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
